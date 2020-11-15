@@ -1,3 +1,2 @@
 # US Medical Insurance Costs
- 
-Here is my project, I used pandas and Jupyter Notebook to create this conclusions.
+In this project, I will be finding out how certain factors affect how much you get charged. I will be using Jupyter Notebook and Pandas to do this.
